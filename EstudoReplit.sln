@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoReplit", "EstudoReplit\EstudoReplit.csproj", "{00E0B6F0-64C1-4251-B580-CA9882B71B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00E0B6F0-64C1-4251-B580-CA9882B71B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E0B6F0-64C1-4251-B580-CA9882B71B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E0B6F0-64C1-4251-B580-CA9882B71B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E0B6F0-64C1-4251-B580-CA9882B71B57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34A09C6D-702F-4E69-92F6-AD4FE5E9107C}
+	EndGlobalSection
+EndGlobal
